@@ -1,0 +1,5 @@
+baseURL = 'http://ankitsachdeva.com/keykobo-database'
+languageCode = 'en-us'
+title = 'Keykobo Database'
+
+theme = "hugo-book"
