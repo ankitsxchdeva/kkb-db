@@ -1,8 +1,6 @@
 ---
 title: "Sea of Clouds"
-date: 2022-12-08T22:57:20-08:00
-# bookComments: false
-# bookSearchExclude: false
+date: 2022-12-08T23:38:01-08:00
+draft: false
 ---
-
-Testing
+some text here
