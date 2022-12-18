@@ -1,0 +1,32 @@
+baseURL = "https://ankitsachdeva.com/keykobo-database"
+languageCode = "en-us"
+title = "Hugo Whisper Theme"
+theme = "hugo-whisper-theme"
+
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.55.0"
+
+[[menu.main]]
+    name = "Database"
+    url = "/docs/"
+    weight = 2
+
+[params]
+  google_analytics_id=""
+  homepage_intro = 'A simple database of every keykobo set produced.'
+
+  ## You can enable to add anchor links to header elements
+  # enable_anchor_link = true
+
+  [params.homepage_meta_tags]
+    meta_description = "A simple database of every keykobo set produced"
+    meta_og_title = "Keykobo Database"
+    meta_og_type = "website"
+    meta_og_url = "https://ankitsachdeva.com/keykobo-database"
+    meta_og_description = "Hugo Whisper is a documentation theme built with Hugo."
